@@ -229,8 +229,13 @@ server {
 for nextjs client
 ```bash
 sudo mkdir -p /var/www/letsencrypt/.well-known/acme-challenge
-sudo chown -R www-data:www-data /var/www/letsencrypt
+```
 
+```bash
+sudo chown -R www-data:www-data /var/www/letsencrypt
+```
+
+```bash
 server {
     listen 80;
     listen [::]:80;
