@@ -267,3 +267,5 @@ certbot renew --dry-run
 If you still need help in deployment:
 
 Contact us on email : info.zeroplace@gmail.com
+
+Youtube url: https://youtu.be/o2J_jdKBLI4?si=N_5n5L5OMAkFHSfA
